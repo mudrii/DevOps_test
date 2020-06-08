@@ -15,11 +15,11 @@
 
 1. DNS Server with zone for app.com
 2. Nginx A Server
-   2.1. Reverse Proxy
-   2.2. URL redirect based on URI
-   2.3. Listening on TCP/IP port 80
-   2.4. redirect https://app.com/ to Nginx B Web Server
-   2.5. redirect https://app.com/api/ to Node.js server
+   1. Reverse Proxy
+   2. URL redirect based on URI
+   3. Listening on TCP/IP port 80
+   4. redirect https://app.com/ to Nginx B Web Server
+   5. redirect https://app.com/api/ to Node.js server
 3. Nginx B Web Server serving static webpages "index.html" and CSS
 4. Node.js service for backend processing
 5. Redis keeps clients connectivity state
