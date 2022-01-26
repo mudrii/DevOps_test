@@ -2,7 +2,7 @@
 
 ## Conditions for the test
 
-- [Pulumi 2.X](https://www.pulumi.com/)
+- [Terraform 1.X](https://www.terraform.io/)
 - [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/) or [Azure](https://portal.azure.com) select one
 
 ### Current configuration
@@ -36,7 +36,7 @@
 
 - Present Diagram in Draw.io
 - Present few options
-- From multiple option use one option and develop infrastructure as code in [Pulumi Python SDK](https://github.com/pulumi/pulumi/tree/master/sdk/python)
+- From multiple option use one option and develop infrastructure as code in [Terafform](https://www.terraform.io/)
 
 ### Infrastructure as a code requirements
 
@@ -44,11 +44,8 @@
 - Code should be testable
 - Code should contain comments and in documentation
 
-### Pulumi reference documentation
+### Terraform reference documentation
 
-- [Pulumi Python](https://www.pulumi.com/docs/intro/languages/python/)
-- [Pulumi Python SDK](https://pypi.org/project/pulumi/)
-- [Pulumi API AWS Reference](https://www.pulumi.com/docs/reference/pkg/aws/)
-- [Pulumi API GCP Reference](https://www.pulumi.com/docs/reference/pkg/gcp/)
-- [Pulumi API Azure Reference](https://www.pulumi.com/docs/reference/pkg/azure/)
-- [Pulumi Tutorials](https://www.pulumi.com/docs/tutorials/)
+- [Terraform CLI](https://www.terraform.io/downloads)
+- [Terraform Modules](https://registry.terraform.io/browse/modules)
+- [Terraform Providers Documentation](https://registry.terraform.io/namespaces/hashicorp)
