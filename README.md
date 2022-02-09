@@ -27,7 +27,7 @@
 
 ## Objective
 
-- migrate application to any of the selected cloud providers AWS/GCP/Azure from OnPrem Data Centre
+- Migrate application to any of the selected cloud providers AWS/GCP/Azure from OnPrem Data Centre
 - Application on the selected cloud provider should be Highly Available
 - Application on the selected cloud provider should be Scalable
 - Application on the selected cloud provider should be Highly Fault Tolerant
@@ -36,7 +36,7 @@
 
 - Present Diagram in Draw.io
 - Present few options
-- From multiple option use one option and develop infrastructure as code in [Terafform](https://www.terraform.io/)
+- From multiple option use one option and develop infrastructure as code in [Terraform](https://www.terraform.io/)
 
 ### Infrastructure as a code requirements
 
